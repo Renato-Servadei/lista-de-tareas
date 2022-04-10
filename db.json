@@ -4,13 +4,25 @@
       "id": 1,
       "text": "Terminar lista de tareas",
       "day": "14 de abril",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
       "text": "Llevar compu a la tia",
       "day": "10 de abril",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "hola que tal",
+      "day": "mañana",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "comprar un salame",
+      "day": "el hyeve",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
